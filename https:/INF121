@@ -1,0 +1,5 @@
+Let rec Somme_entiers n=
+If n=0 then 
+0
+Else 
+n + somme_entiers (n-1);
